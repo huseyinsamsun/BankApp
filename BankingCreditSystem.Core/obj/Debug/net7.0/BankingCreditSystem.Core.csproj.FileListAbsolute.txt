@@ -1,0 +1,12 @@
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Core/bin/Debug/net7.0/BankingCreditSystem.Core.deps.json
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Core/bin/Debug/net7.0/BankingCreditSystem.Core.dll
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Core/bin/Debug/net7.0/BankingCreditSystem.Core.pdb
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Core/obj/Debug/net7.0/BankingCreditSystem.Core.csproj.AssemblyReference.cache
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Core/obj/Debug/net7.0/BankingCreditSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Core/obj/Debug/net7.0/BankingCreditSystem.Core.AssemblyInfoInputs.cache
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Core/obj/Debug/net7.0/BankingCreditSystem.Core.AssemblyInfo.cs
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Core/obj/Debug/net7.0/BankingCreditSystem.Core.csproj.CoreCompileInputs.cache
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Core/obj/Debug/net7.0/BankingCreditSystem.Core.dll
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Core/obj/Debug/net7.0/refint/BankingCreditSystem.Core.dll
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Core/obj/Debug/net7.0/BankingCreditSystem.Core.pdb
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Core/obj/Debug/net7.0/ref/BankingCreditSystem.Core.dll

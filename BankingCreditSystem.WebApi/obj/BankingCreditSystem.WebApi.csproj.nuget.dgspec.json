@@ -1,0 +1,388 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.WebApi/BankingCreditSystem.WebApi.csproj": {}
+  },
+  "projects": {
+    "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/BankingCreditSystem.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/BankingCreditSystem.Application.csproj",
+        "projectName": "BankingCreditSystem.Application",
+        "projectPath": "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/BankingCreditSystem.Application.csproj",
+        "packagesPath": "/Users/huseyinsamsun/.nuget/packages/",
+        "outputPath": "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/huseyinsamsun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Domain/BankingCreditSystem.Domain.csproj": {
+                "projectPath": "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Domain/BankingCreditSystem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Core/BankingCreditSystem.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Core/BankingCreditSystem.Core.csproj",
+        "projectName": "BankingCreditSystem.Core",
+        "projectPath": "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Core/BankingCreditSystem.Core.csproj",
+        "packagesPath": "/Users/huseyinsamsun/.nuget/packages/",
+        "outputPath": "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/huseyinsamsun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Domain/BankingCreditSystem.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Domain/BankingCreditSystem.Domain.csproj",
+        "projectName": "BankingCreditSystem.Domain",
+        "projectPath": "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Domain/BankingCreditSystem.Domain.csproj",
+        "packagesPath": "/Users/huseyinsamsun/.nuget/packages/",
+        "outputPath": "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/huseyinsamsun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Core/BankingCreditSystem.Core.csproj": {
+                "projectPath": "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Core/BankingCreditSystem.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Persistence/BankingCreditSystem.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Persistence/BankingCreditSystem.Persistence.csproj",
+        "projectName": "BankingCreditSystem.Persistence",
+        "projectPath": "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Persistence/BankingCreditSystem.Persistence.csproj",
+        "packagesPath": "/Users/huseyinsamsun/.nuget/packages/",
+        "outputPath": "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/huseyinsamsun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/BankingCreditSystem.Application.csproj": {
+                "projectPath": "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/BankingCreditSystem.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.WebApi/BankingCreditSystem.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.WebApi/BankingCreditSystem.WebApi.csproj",
+        "projectName": "BankingCreditSystem.WebApi",
+        "projectPath": "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.WebApi/BankingCreditSystem.WebApi.csproj",
+        "packagesPath": "/Users/huseyinsamsun/.nuget/packages/",
+        "outputPath": "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.WebApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/huseyinsamsun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/BankingCreditSystem.Application.csproj": {
+                "projectPath": "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/BankingCreditSystem.Application.csproj"
+              },
+              "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Persistence/BankingCreditSystem.Persistence.csproj": {
+                "projectPath": "/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Persistence/BankingCreditSystem.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

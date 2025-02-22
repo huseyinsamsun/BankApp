@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "akz0WOP5qPwJvZ0AqHN85CabJs7rYTpM6a/gatBePzU=",
+  "Source": "BankingCreditSystem.WebApi",
+  "BasePath": "_content/BankingCreditSystem.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

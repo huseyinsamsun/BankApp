@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{7C323347-904D-42E0-9AE4-47CE64C0210F}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BankingCreditSystem.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BankingCreditSystem.WebApi/appsettings.json">
+    <Files>
+      <File FileName="BankingCreditSystem.Persistence/Repositories/CorporateCustomerRepository.cs" />
+      <File FileName="BankingCreditSystem.Domain/Entities/IndividualCustomer.cs" />
+      <File FileName="BankingCreditSystem.Domain/Entities/CorporateCustomer.cs" />
+      <File FileName="BankingCreditSystem.Domain/Entities/Customer.cs" />
+      <File FileName="BankingCreditSystem.Persistence/Repositories/CustomerRepository.cs" />
+      <File FileName="BankingCreditSystem.Persistence/Repositories/IndividualCustomerRepository.cs" />
+      <File FileName="BankingCreditSystem.Persistence/Contexts/BankingCreditSystemDbContext.cs" />
+      <File FileName="BankingCreditSystem.WebApi/Program.cs" />
+      <File FileName="BankingCreditSystem.WebApi/appsettings.json" Line="1" Column="1" />
+      <File FileName="BankingCreditSystem.Persistence/PersistenceServiceRegistration.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BankingCreditSystem" expanded="True">
+            <Node name="BankingCreditSystem.Application" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="BankingCreditSystem.Core" expanded="True" />
+            <Node name="BankingCreditSystem.Domain" expanded="True">
+              <Node name="Entities" expanded="True" />
+            </Node>
+            <Node name="BankingCreditSystem.Persistence" expanded="True">
+              <Node name="Contexts" expanded="True" />
+              <Node name="EntityConfigurations" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="BankingCreditSystem.WebApi" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

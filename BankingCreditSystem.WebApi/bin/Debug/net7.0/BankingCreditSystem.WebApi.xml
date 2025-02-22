@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BankingCreditSystem.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:BankingCreditSystem.WebApi.Controllers.IndividualCustomersController">
+            <summary>
+            Bireysel müşteri işlemleri için API endpoint'leri
+            </summary>
+        </member>
+        <member name="M:BankingCreditSystem.WebApi.Controllers.IndividualCustomersController.GetById(System.Guid)">
+            <summary>
+            Belirtilen ID'ye sahip bireysel müşteriyi getirir
+            </summary>
+            <param name="id">Müşteri ID'si</param>
+            <returns>Bireysel müşteri detayları</returns>
+            <response code="200">Müşteri başarıyla getirildi</response>
+            <response code="404">Müşteri bulunamadı</response>
+        </member>
+        <member name="M:BankingCreditSystem.WebApi.Controllers.IndividualCustomersController.GetList(BankingCreditSystem.Application.Features.IndividualCustomers.Queries.GetList.GetIndividualCustomerListQuery)">
+            <summary>
+            Bireysel müşteri listesini sayfalı şekilde getirir
+            </summary>
+            <param name="query">Sayfalama parametreleri</param>
+            <returns>Sayfalanmış müşteri listesi</returns>
+            <response code="200">Müşteri listesi başarıyla getirildi</response>
+        </member>
+        <member name="M:BankingCreditSystem.WebApi.Controllers.IndividualCustomersController.Create(BankingCreditSystem.Application.Features.IndividualCustomers.Dtos.Requests.CreateIndividualCustomerRequest)">
+            <summary>
+            Yeni bir bireysel müşteri oluşturur
+            </summary>
+            <param name="request">Müşteri bilgileri</param>
+            <returns>Oluşturulan müşteri bilgileri</returns>
+            <response code="201">Müşteri başarıyla oluşturuldu</response>
+            <response code="400">Geçersiz müşteri bilgileri</response>
+        </member>
+        <member name="M:BankingCreditSystem.WebApi.Controllers.IndividualCustomersController.Update(System.Guid,BankingCreditSystem.Application.Features.IndividualCustomers.Dtos.Requests.UpdateIndividualCustomerRequest)">
+            <summary>
+            Mevcut bir bireysel müşteriyi günceller
+            </summary>
+            <param name="id">Güncellenecek müşteri ID'si</param>
+            <param name="request">Güncellenecek müşteri bilgileri</param>
+            <returns>Güncellenmiş müşteri bilgileri</returns>
+            <response code="200">Müşteri başarıyla güncellendi</response>
+            <response code="400">Geçersiz müşteri bilgileri</response>
+            <response code="404">Müşteri bulunamadı</response>
+        </member>
+    </members>
+</doc>

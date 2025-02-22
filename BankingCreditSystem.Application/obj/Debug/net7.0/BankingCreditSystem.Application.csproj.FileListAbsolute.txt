@@ -1,0 +1,17 @@
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/bin/Debug/net7.0/BankingCreditSystem.Application.deps.json
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/bin/Debug/net7.0/BankingCreditSystem.Application.dll
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/bin/Debug/net7.0/BankingCreditSystem.Application.pdb
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/bin/Debug/net7.0/BankingCreditSystem.Core.dll
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/bin/Debug/net7.0/BankingCreditSystem.Domain.dll
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/bin/Debug/net7.0/BankingCreditSystem.Domain.pdb
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/bin/Debug/net7.0/BankingCreditSystem.Core.pdb
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/obj/Debug/net7.0/BankingCreditSystem.Application.csproj.AssemblyReference.cache
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/obj/Debug/net7.0/BankingCreditSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/obj/Debug/net7.0/BankingCreditSystem.Application.AssemblyInfoInputs.cache
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/obj/Debug/net7.0/BankingCreditSystem.Application.AssemblyInfo.cs
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/obj/Debug/net7.0/BankingCreditSystem.Application.csproj.CoreCompileInputs.cache
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/obj/Debug/net7.0/BankingCreditSystem.Application.csproj.CopyComplete
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/obj/Debug/net7.0/BankingCreditSystem.Application.dll
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/obj/Debug/net7.0/refint/BankingCreditSystem.Application.dll
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/obj/Debug/net7.0/BankingCreditSystem.Application.pdb
+/Users/huseyinsamsun/Desktop/BankApp/BankingCreditSystem.Application/obj/Debug/net7.0/ref/BankingCreditSystem.Application.dll
